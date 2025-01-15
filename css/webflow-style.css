@@ -2090,7 +2090,7 @@ textarea.w-input, textarea.w-select {
 
 .section-1 {
   color: #0f0f10;
-  padding-bottom: 650px;
+  padding-bottom: 568px;
   font-family: Herokid, Verdana, sans-serif;
   font-size: 48px;
   overflow: hidden;
@@ -2175,7 +2175,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .section-2 {
-  margin-top: 20px;
+  margin-top: 0px;
   overflow: hidden;
 }
 
@@ -2956,9 +2956,12 @@ textarea.w-input, textarea.w-select {
 
 @media screen and (max-width: 991px) {
   .section-1 {
-    padding-bottom: 600px;
+    padding-bottom: 400px;
   }
 
+  .section-2 {
+    padding-top: 100px;
+  }
   .title {
     width: 680px;
     max-width: 720px;
