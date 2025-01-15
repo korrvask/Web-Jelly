@@ -2091,6 +2091,7 @@ textarea.w-input, textarea.w-select {
 .section-1 {
   color: #0f0f10;
   padding-bottom: 568px;
+  margin-bottom: 80px;
   font-family: Herokid, Verdana, sans-serif;
   font-size: 48px;
   overflow: hidden;
