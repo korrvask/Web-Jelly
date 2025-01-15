@@ -2956,11 +2956,11 @@ textarea.w-input, textarea.w-select {
 
 @media screen and (max-width: 991px) {
   .section-1 {
-    padding-bottom: 568px;
+    padding-bottom: 600px;
   }
 
   .section-2 {
-    padding-top: 100px;
+    padding-top: 180px;
   }
   .title {
     width: 680px;
