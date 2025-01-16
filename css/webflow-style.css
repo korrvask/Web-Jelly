@@ -2221,7 +2221,7 @@ textarea.w-input, textarea.w-select {
 
 .body {
   background-color: #f5f5f5;
-  padding-bottom: 64px;
+  padding-bottom: 0px;
 }
 
 .section-3 {
