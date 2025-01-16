@@ -1681,6 +1681,10 @@ textarea.w-input, textarea.w-select {
   clear: both;
 }
 
+.section-2 {
+  padding-top: 350px;
+}
+
 .w-richtext[contenteditable="true"]:before, .w-richtext[contenteditable="true"]:after {
   white-space: initial;
 }
@@ -2090,7 +2094,7 @@ textarea.w-input, textarea.w-select {
 
 .section-1 {
   color: #0f0f10;
-  padding-bottom: 568px;
+  padding-bottom: 440px;
   font-family: Herokid, Verdana, sans-serif;
   font-size: 48px;
   overflow: hidden;
@@ -2175,7 +2179,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .section-2 {
-  margin-top: 50px;
+  margin-top: 0px;
   overflow: hidden;
 }
 
@@ -2953,10 +2957,15 @@ textarea.w-input, textarea.w-select {
   font-size: 28px;
   display: flex;
 }
+@media screen and (min-width: 1400px) and (max-width: 1600px) {
+  .section-2 {
+    padding-top: 100px;
+  }
+}
 
 @media screen and (max-width: 991px) {
   .section-1 {
-    padding-bottom: 600px;
+    padding-bottom: 570px;
   }
 
   .section-2 {
