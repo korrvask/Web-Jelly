@@ -3522,7 +3522,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: 'Herokid';
-  src: url('../images/herokid-regular.otf') format('opentype');
+  src: url('../images/Herokid-Regular.woff2') format('woff2'), url('../images/Herokid-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
